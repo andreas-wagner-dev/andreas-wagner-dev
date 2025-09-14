@@ -35,7 +35,7 @@ I believe in:
 - **Object-oriented programming:** is still the best abstraction approach we currently have 
 - **Clean Code:** Writing code that tells a story
 - **Continuous Learning:** Technology evolves, and so should we
-- **Knowledge Sharing:** The best way to learn is to teach others
+- **Knowledge Sharing:** The best way to learn is to teach others and otherwise listen to others
 
 ## 📫 Let's Connect
 - **GitHub:** You're already here! 😄
