@@ -32,6 +32,7 @@ Complete example of running an embedded Kafka server as a local Java program, in
 
 ## 💡 Philosophy
 I believe in:
+- **Object-oriented programming:** is still the best abstraction approach we currently have 
 - **Clean Code:** Writing code that tells a story
 - **Continuous Learning:** Technology evolves, and so should we
 - **Knowledge Sharing:** The best way to learn is to teach others
