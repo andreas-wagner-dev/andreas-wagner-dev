@@ -1,20 +1,20 @@
 # Hi there! 👋 I'm Andreas Wagner
 
 ## 🚀 About Me
-Passionate software developer with a focus on **object-oriented programming** and **backend technologies**. I love exploring the fundamental concepts behind good software design and sharing knowledge with the developer community.
+*Enthusiastic* software developer with focus on **object-oriented programming** and **java technologies**.</br>I love exploring the fundamental concepts behind good software design and sharing knowledge with the developer community.
 
 ## 💡 Philosophy
 I believe in:
 - **Object-oriented programming:** is still the best abstraction approach we currently have 
-- **Clean Code:** Writing code that tells a story
-- **Continuous Learning:** Technology evolves, and so should we
-- **Knowledge Sharing:** The best way to learn is to teach others and otherwise listen to others
+- **Clean Code:** Writing code that tells a story - from the root package of an application
+- **Continuous Learning:** Object-oriented Philosophy, Technology evolves, and so should we: see my References:
+- **Knowledge Sharing:** The best way to learn is to teach others **and otherwise listen to others**
 
 ## 🛠️ Tech Stack
 - **Languages:** Java ☕
 - **Frameworks:** Jakarta EE, Enterprise Applications
 - **Technologies:** Apache Kafka, Embedded Systems
-- **Focus Areas:** Object-Oriented Design, Microservices Architecture
+- **Focus Areas:** Object-Oriented Design inside Jakarta EE - Enterprise Architecture
 - **Testing:** JUnit, Test-Driven Development
 
 ## 📚 Featured Projects
