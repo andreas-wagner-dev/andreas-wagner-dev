@@ -1,13 +1,13 @@
 # Hi there! 👋 I'm Andreas Wagner
 
 ## 🚀 About Me
-*Enthusiastic* software developer with focus on **object-oriented programming** and **java technologies**.</br>I love exploring the fundamental concepts behind good software design and sharing knowledge with the developer community.
+*Enthusiastic* software developer with focus on **object oriented programming** and **java technologies**.</br>I love exploring the fundamental concepts behind good software design and sharing knowledge with the developer community.
 
 ## 💡 Philosophy
 I believe in:
 - **Object-oriented programming:** is still the best abstraction approach we currently have 
 - **Clean Code:** Writing code that tells a story - from the root package of an application
-- **Continuous Learning:** Object-oriented Philosophy, Technology evolves, and so should we: see my References:
+- **Continuous Learning:** Concepts behind the object oriented philosophy
 - **Knowledge Sharing:** The best way to learn is to teach others **and otherwise listen to others**
 
 ## 🛠️ Tech Stack
@@ -19,10 +19,10 @@ I believe in:
 
 ## 📚 Featured Projects
 
-### 🎯 [Object-Oriented Learning Journey](https://github.com/andreas-wagner-dev/object-oriented-learning-journey)
-A curated collection of my favorite blogs and resources from experts who teach the real ideas behind object-oriented software development. Perfect for developers wanting to deepen their OOP understanding.
+### 🎯 [Object Oriented Learning Journey](https://github.com/andreas-wagner-dev/object-oriented-learning-journey)
+A curated collection of my favorite blogs and resources from experts who teach the real ideas behind object oriented software development. Perfect for developers wanting to deepen their OOP understanding.
 
-**Why this matters:** Understanding OOP isn't just about syntax—it's about a programming philosophy that changes how we think about problems and design solutions.
+**Why this matters:** Understanding OOP isn't just about syntax — it is about a *programming* **philosophy** that changes how we think about problems and design solutions - since 196X-ten.
 
 ### ⚡ [Kafka Server Embedded](https://github.com/andreas-wagner-dev/kafka-server-embedded)
 Complete example of running an embedded Kafka server as a local Java program, including producer and consumer examples in JUnit tests.
