@@ -24,7 +24,7 @@ A curated collection of my favorite blogs and resources from experts who teach t
 
 **Why this matters:** Understanding OOP isn't just about syntax — it is about a *programming* **philosophy** that changes how we think about problems and design solutions - since 196X-ten.
 
-### ⚡ [OOP Jsf Binding](https://github.com/andreas-wagner-dev/oop-jsf-binding)
+### 🎭 [OOP Jsf Binding](https://github.com/andreas-wagner-dev/oop-jsf-binding)
 
 This project is an example application demonstrating Object-Oriented Programming (OOP) principles within a Java web application using Jakarta EE and PrimeFaces.
 The application manages tasks (Task) and folders (Folder) in a hierarchical structure and showcases **how UI components can be directly bound to domain objects**.
