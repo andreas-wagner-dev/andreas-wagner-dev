@@ -5,13 +5,13 @@
 
 ## 💡 Philosophy
 I believe in:
-- **Object-oriented programming:** is still the best abstraction approach we currently have 
+- **Object-oriented programming:** is still the best programming approach we currently have 
 - **Clean Code:** Writing code that tells a story - from the root package of an application
 - **Continuous Learning:** Concepts behind the object oriented philosophy
 - **Knowledge Sharing:** The best way to learn is to teach others **and otherwise listen to others**
 
 ## 🛠️ Tech Stack
-- **Languages:** Java ☕
+- **Languages:** Java ☕, JS, HTML, CSS   
 - **Frameworks:** Jakarta EE, Enterprise Applications
 - **Technologies:** Apache Kafka, Embedded Systems
 - **Focus Areas:** Object-Oriented Design inside Jakarta EE - Enterprise Architecture
@@ -23,6 +23,12 @@ I believe in:
 A curated collection of my favorite blogs and resources from experts who teach the real ideas behind object oriented software development. Perfect for developers wanting to deepen their OOP understanding.
 
 **Why this matters:** Understanding OOP isn't just about syntax — it is about a *programming* **philosophy** that changes how we think about problems and design solutions - since 196X-ten.
+
+### ⚡ [OOP Jsf Binding](https://github.com/andreas-wagner-dev/oop-jsf-binding)
+
+This project is an example application demonstrating Object-Oriented Programming (OOP) principles within a Java web application using Jakarta EE and PrimeFaces.
+The application manages tasks (Task) and folders (Folder) in a hierarchical structure and showcases **how UI components can be directly bound to domain objects**.
+
 
 ### ⚡ [Kafka Server Embedded](https://github.com/andreas-wagner-dev/kafka-server-embedded)
 Complete example of running an embedded Kafka server as a local Java program, including producer and consumer examples in JUnit tests.
