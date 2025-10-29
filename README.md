@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Andreas Wagner
 
 ## 🚀 About Me
-*Enthusiastic* software developer with focus on **object oriented programming** and **java technologies**.</br>I love exploring the fundamental concepts behind good software design and sharing knowledge with the developer community.
+*Enthusiastic* software developer with focus on **object oriented programming** and **java technologies**.</br>I love exploring the fundamental OOP concepts behind good software design and sharing knowledge with the developer community.
 
 ## 💡 Philosophy
 I believe in:
