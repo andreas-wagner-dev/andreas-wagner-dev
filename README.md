@@ -5,8 +5,8 @@
 
 ## 💡 Philosophy
 I believe in:
-- **Object-oriented programming:** is still the best programming approach we currently have 
-- **Clean Code:** Writing code that tells a story - from the root package of an application
+- **OOP:** is still the best programming approach we currently have 
+- **Good Code:** *"must tells a customer story"* only *"reflect business-concepts, not technical ones."*
 - **Continuous Learning:** Concepts behind the object oriented philosophy
 - **Knowledge Sharing:** The best way to learn is to teach others **and otherwise listen to others**
 
@@ -22,8 +22,8 @@ A curated collection of my favorite blogs and resources from experts who teach t
 
 ### 🎭 [OOP Jsf Binding](https://github.com/andreas-wagner-dev/oop-jsf-binding)
 
-This project is an example application demonstrating Object-Oriented Programming (OOP) principles within a Java web application using Jakarta EE and PrimeFaces.
-The application manages tasks (Task) and folders (Folder) in a hierarchical structure and showcases **how UI components can be directly bound to domain objects**.
+* This project is an example application demonstrating Object-Oriented Programming (OOP) principles within a Java web application using Jakarta EE and PrimeFaces.
+* The application manages tasks (Task) and folders (Folder) in a hierarchical structure and showcases **how UI components can be directly bound to domain objects**.
 
 
 ### ⚡ [Kafka Server Embedded](https://github.com/andreas-wagner-dev/kafka-server-embedded)
