@@ -24,7 +24,7 @@ A curated collection of my favorite blogs and resources from experts who teach t
 
 **WrapFaces** is the component oriented **Wrap**per solution for Jakarta Server **Faces** (JSF). The lightweight framework transfers the **object oriented discipline** of desktop frameworks (e.g. Swing/SWT) to the web. 
 
-### 🎭 [OOP Jsf Binding](https://github.com/andreas-wagner-dev/oop-jsf-binding)
+### 🧶 [OOP Jsf Binding](https://github.com/andreas-wagner-dev/oop-jsf-binding)
 
 * This project is an example application demonstrating Object-Oriented Programming (OOP) principles within a Java web application using Jakarta EE and PrimeFaces.
 * The application manages tasks (Task) and folders (Folder) in a hierarchical structure and showcases **how UI components can be directly bound to domain objects**.
