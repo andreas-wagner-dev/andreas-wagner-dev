@@ -22,7 +22,7 @@ A curated collection of my favorite blogs and resources from experts who teach t
 
 ### 🎭 [WrapFaces](https://github.com/andreas-wagner-dev/wrapfaces)
 
-**WrapFaces** is the component oriented **Wrap**per solution for Jakarta Server **Faces** (JSF). The lightweight framework transfers the **object oriented discipline** of desktop frameworks (e.g. Swing/SWT) to the web. 
+**WrapFaces** is a component **Wrap**per solution based on Jakarta Server **Faces** (JSF). It's transfers the **object oriented discipline** of desktop UI frameworks like Swing to the web. 
 
 ### 🧶 [OOP Jsf Binding](https://github.com/andreas-wagner-dev/oop-jsf-binding)
 
