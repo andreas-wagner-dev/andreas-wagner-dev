@@ -20,7 +20,7 @@ A curated collection of my favorite blogs and resources from experts who teach t
 
 **Why this matters:** Understanding OOP isn't just about syntax — it is about a *programming* **philosophy** that changes how we think about problems and design solutions - since 196X-ten.
 
-### 🎭 [WrapFaces](https://github.com/andreas-wagner-dev/wrap-faces)
+### 🎭 [WrapFaces](https://github.com/andreas-wagner-dev/wrapfaces)
 
 **WrapFaces** is the component oriented **Wrap**per solution for Jakarta Server **Faces** (JSF). The lightweight framework transfers the **object oriented discipline** of desktop frameworks (e.g. Swing/SWT) to the web. 
 
