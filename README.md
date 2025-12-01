@@ -52,7 +52,10 @@ Complete example of running an embedded Kafka server as a local Java program, in
 
 ## 📊 GitHub Stats
 
+![Andreas's GitHub Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreas-wagner-dev&theme=github_dark)
+
 ![Andreas's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreas-wagner-dev&show_icons=true&theme=vue-dark)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreas-wagner-dev&layout=compact&theme=vue-dark)
 
