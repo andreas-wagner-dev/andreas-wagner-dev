@@ -37,9 +37,9 @@ Complete example of running an embedded Kafka server as a local Java program, in
 - Comprehensive test examples
 
 ## 🌱 What I'm Currently Learning
-- Advanced Kafka patterns and streaming architectures
-- Modern Java features and best practices
+- OOP best practices and Modern Java features 
 - Microservices design patterns
+- Advanced Kafka patterns and streaming architectures
 
 ## 📫 Let's Connect
 - **GitHub:** You're already here! 😄
