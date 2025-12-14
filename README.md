@@ -11,7 +11,10 @@ I believe in:
 - **Knowledge Sharing:** The best way to learn is to teach others **and otherwise listen to others**
 
 ## 🛠️ Tech Stack
-- **Languages:** Java ☕, JS, HTML, CSS   - **Frameworks:** Jakarta EE, Enterprise Applications - **Technologies:** Apache Kafka, Embedded Systems - **Focus Areas:** Object-Oriented Design inside Jakarta EE - Enterprise Architecture - **Testing:** JUnit, Test-Driven Development
+- **Languages:** Java, SQL, JS, HTML, CSS
+- **Frameworks:** Jakarta-EE, Spring, Quarkus
+- **Technologies:** R-DBMS (PostgreSQL, Oracle,...), HTTP, Messaging (Kafka,...)
+- **Testing:** JUnit, Mocito
 
 ## 📚 Featured Projects
 
