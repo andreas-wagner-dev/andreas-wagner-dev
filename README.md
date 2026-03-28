@@ -21,7 +21,7 @@ I believe in:
 ### 🎯 [Object Oriented Journey](https://github.com/andreas-wagner-dev/object-oriented-learning-journey)
 A curated collection of my favorite blogs and resources from experts who teach the real ideas behind object oriented software development. Perfect for developers wanting to deepen their OOP understanding.
 
-**Why this matters:** Understanding OOP isn't just about syntax — it is about a *programming* **philosophy** that changes how we think about problems and design solutions - since 196X-ten.
+**Why this matters:** Understanding OOP isn't just about syntax - it is about a *programming* **philosophy** that changes how we think about problems and design solutions - since 196X-ten.
 
 ### 🎭 [WrapFaces](https://github.com/andreas-wagner-dev/wrapfaces)
 
