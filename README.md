@@ -7,8 +7,8 @@
 I believe in:
 - **OOP:** is still the best programming approach we currently have 
 - **Good Code:** *"must tells a customer story"* only *"reflect business-concepts, not technical ones."*
-- **Continuous Learning:** Concepts behind the object oriented philosophy
-- **Knowledge Sharing:** The best way to learn is to teach others **and otherwise listen to others**
+- **Learning:** Concepts behind the object oriented philosophy
+- **Knowledge:** The best way to learn is to teach others **and otherwise listen to others**
 
 ## 🛠️ Tech Stack
 - **Languages:** Java, SQL, JS, HTML, CSS
@@ -41,8 +41,8 @@ Complete example of running an embedded Kafka server as a local Java program, in
 
 ## 🌱 What I'm Currently Learning
 - OOP best practices and Modern Java features 
-- Microservices design patterns
-- Advanced Kafka patterns and streaming architectures
+- System design and patterns
+- Advanced patterns and streaming architectures
 
 ## 📫 Let's Connect
 - **GitHub:** You're already here! 😄
