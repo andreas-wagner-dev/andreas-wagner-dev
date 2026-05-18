@@ -6,7 +6,7 @@
 ## 💡 Philosophy
 I believe in:
 - **OOP:** is still the best programming approach we currently have 
-- **Good Code:** *"must tell a customer story"* only *"reflect business-concepts, not technical ones."*
+- **Good Code:** *"must tell a customer story"*, only *"reflect business-concepts, not technical ones."*
 - **Learning:** Concepts behind the object oriented philosophy
 - **Knowledge:** The best way to learn is to teach others **and otherwise listen to others**
 
